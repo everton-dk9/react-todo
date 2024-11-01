@@ -1,0 +1,16 @@
+.new-task-button {
+  height: 2.556rem;
+  width: 8.944rem;
+  border: none;
+  background-color: #ED107A;
+  color: #FFFFFF;
+  font-size: 0.875rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 0;
+}

@@ -1,0 +1,10 @@
+.search-input {
+  display: flex;
+  border: 2px solid rgba(255,255,255,0.5);
+  border-radius: 5px;
+  color: rgba(255,255,255,0.7);
+  background-color: rgba(255,255,255,0.1);
+  width: 32.889rem;
+  height: 2.609em;
+  padding-left: 1rem;
+}

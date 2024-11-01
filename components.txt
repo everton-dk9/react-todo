@@ -1,0 +1,31 @@
+List of identified components in the figma prototype (inner-to-outer):
+
+[.] => in progress;
+[X] => Finished;
+
+- In the Header Section:
+
+[X] Logo;
+[X] Search Icon
+[X] Search Bar Input
+[X] Theme Switch Button
+
+- Main Content Section:
+
+[X] New task Button
+[] List of Task Cards
+
+- Task Card Component:
+
+[X] task title
+[X] task description
+[X] task creation date
+[X] edit Button
+[X] delete button
+
+- Bigger Components:
+
+[.] Header
+[] Main Content
+[] Page Layout
+

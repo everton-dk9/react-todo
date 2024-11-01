@@ -1,0 +1,23 @@
+.tasks-page {
+  display: flex;
+  flex-direction: column;
+  margin: 3.3334rem;
+  gap: 2.5rem;
+}
+
+.tasks-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tasks-heading h1 {
+  line-height: 1.75rem;
+  font-size: 2.25rem;
+}
+
+.task-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}

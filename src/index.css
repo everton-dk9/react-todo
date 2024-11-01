@@ -1,0 +1,34 @@
+:root {
+  font-family: Open Sans, sans-serif;
+  line-height: 1.125em;
+  font-weight: 400;
+  font-size: 1rem;
+
+  color-scheme: light dark;
+  color: #6F6F6F;
+  background-color: #FDFDFD;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
