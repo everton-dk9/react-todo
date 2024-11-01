@@ -5,7 +5,7 @@ da biblioteca. Estou seguindo a documentação oficial como fonte de aprendizado
 
 # Como iniciar um projeto com Reactjs + typescript usando Vite
 
-- Usando [Vite](https://vite.dev/) é forma mais simples, basta executar:
+- Usando [Vite](https://vite.dev/) é a forma mais simples, basta executar:
 
 ```
 # npm 7+, extra double-dash is needed:
